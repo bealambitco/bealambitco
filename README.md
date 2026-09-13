@@ -12,5 +12,5 @@ Data & AI Consultant · Trainer · Speaker, based in Manila, Philippines.
 - [Library](https://library.bealambitco.com): Curated resources for practitioners. *(in development)*
 - [APIs & Agents](https://api.bealambitco.com): API and AI agent designs. *(in development)*
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/bea-lambitco)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/bea-lambitco)
 
