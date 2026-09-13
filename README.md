@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bea Charmelyn T. Lambitco, FRM
 
-<!--
-**bealambitco/bealambitco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & AI Consultant · Trainer · Speaker, based in Manila, Philippines.
 
-Here are some ideas to get you started:
+## Sites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bea Lambitco](https://bealambitco.com): What I do, and how to reach me.
+- [Consulting Hub](https://hub.bealambitco.com): Tools and product I built.
+- [Research](https://research.bealambitco.com): Academic papers and policies I wrote.
+- [Insights](https://insights.bealambitco.com): Practitioner analyses for decision-making. *(in development)*
+- [Academy](https://academy.bealambitco.com): Courses and programs I teach. *(in development)*
+- [Library](https://library.bealambitco.com): Curated resources for practitioners. *(in development)*
+- [APIs & Agents](https://api.bealambitco.com): API and AI agent designs. *(in development)*
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/bea-lambitco)
+
