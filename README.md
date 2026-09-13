@@ -1,4 +1,4 @@
-# Bea Charmelyn T. Lambitco, FRM
+![Bea Charmelyn T. Lambitco, FRM: Data & AI Consultant · Trainer · Speaker](github-banner.png)
 
 Data & AI Consultant · Trainer · Speaker, based in Manila, Philippines.
 
