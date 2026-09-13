@@ -1,7 +1,5 @@
 ![Bea Charmelyn T. Lambitco, FRM: Data & AI Consultant · Trainer · Speaker](github-banner.png)
 
-Data & AI Consultant · Trainer · Speaker, based in Manila, Philippines.
-
 I help organizations turn Data and AI into practical capability and measurable business outcomes, drawing on experience in banking and asset management.
 
 ### Proof
@@ -30,3 +28,5 @@ I help organizations turn Data and AI into practical capability and measurable b
 - [APIs & Agents](https://api.bealambitco.com): API and AI agent designs. *(in development)*
 
 **Working on a Data or AI initiative?** [Get in touch](https://bealambitco.com/#contact) · [LinkedIn](https://www.linkedin.com/in/bea-lambitco)
+
+Based in Manila, Philippines.
