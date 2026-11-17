@@ -22,10 +22,10 @@ I help organizations turn Data and AI into practical capability and measurable b
 - [Bea Lambitco](https://bealambitco.com): What I do, and how to reach me.
 - [Consulting Hub](https://hub.bealambitco.com): Tools and product I built.
 - [Research](https://research.bealambitco.com): Academic papers and policies I wrote.
-- [Insights](https://insights.bealambitco.com): Practitioner analyses for decision-making. *(in development)*
-- [Academy](https://academy.bealambitco.com): Courses and programs I teach. *(in development)*
-- [Library](https://library.bealambitco.com): Curated resources for practitioners. *(in development)*
-- [APIs & Agents](https://api.bealambitco.com): API and AI agent designs. *(in development)*
+- [Insights](https://insights.bealambitco.com): Practitioner analyses for decision-making. *(Opens Q1 2027)*
+- [Academy](https://academy.bealambitco.com): Courses and programs I teach. *(Opens Q1 2027)*
+- [Library](https://library.bealambitco.com): Curated resources for practitioners. *(Opens Q1 2027)*
+- [APIs & Agents](https://api.bealambitco.com): API and AI agent designs. *(Opens Q2 2027)*
 
 **Working on a Data or AI initiative?** [Get in touch](https://bealambitco.com/#contact) · [LinkedIn](https://www.linkedin.com/in/bea-lambitco)
 
